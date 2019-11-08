@@ -21,5 +21,6 @@ penjelasan program1
 1. modal awal pengusaha sebesar 100000000.
 2. untuk meghitung laba perbulan maka harus diinputkan terlebih dahulu besarnya presentase keuntungan perbulan.
 3. hasil laba perbulan ditampilkan. gunakan kombinasi looping for, untuk menampilkan kembali jumlah laba yang telah dihitung berdasarkan    prentasenya.
-4. maka akan ditampilkan jumlah laba secara keseluruhan dengan menggunakan funsi sum. maka akan muncul tampilan sebagai berikut :
+4. maka akan ditampilkan jumlah laba secara keseluruhan dengan menggunakan fungsi sum. maka akan muncul tampilan sebagai berikut :
 
+![Screenshot (116)](https://user-images.githubusercontent.com/56973033/68484135-4c1fcf80-026f-11ea-9086-1802955622bd.png)
