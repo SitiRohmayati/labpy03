@@ -14,3 +14,12 @@ penjelasan latihan2
 2. program akan terus mengulang untuk perintah memasukkan bilangan.
 3. pengulangan akan berhenti ketika memasukkan angka 0 (nol).
 4. lalu akan ditampilkan bilangan terbesar dari semua bilangan yang diiput. untuk mencari bilangan terbesar menggunakan fungsi max. maka akan muncul tampilan sebagai berikut
+
+![Screenshot (117)](https://user-images.githubusercontent.com/56973033/68483341-f4cd2f80-026d-11ea-86c7-e63ff2c606ff.png)
+
+penjelasan program1
+1. modal awal pengusaha sebesar 100000000.
+2. untuk meghitung laba perbulan maka harus diinputkan terlebih dahulu besarnya presentase keuntungan perbulan.
+3. hasil laba perbulan ditampilkan. gunakan kombinasi looping for, untuk menampilkan kembali jumlah laba yang telah dihitung berdasarkan    prentasenya.
+4. maka akan ditampilkan jumlah laba secara keseluruhan dengan menggunakan funsi sum. maka akan muncul tampilan sebagai berikut :
+
