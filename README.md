@@ -8,6 +8,11 @@ penjelasan latihan1
 
 ![Screenshot (113)](https://user-images.githubusercontent.com/56973033/68482523-5ee4d500-026c-11ea-863e-70d5fd125e6b.png)
 
+dan berikut flowchartnya
+
+![Screenshot (118)](https://user-images.githubusercontent.com/56973033/68694060-059dde00-05ab-11ea-9e60-c7faa2f85fc4.png)
+
+
 penjelasan latihan2
 
 1. masukan bilangan.
@@ -16,6 +21,11 @@ penjelasan latihan2
 4. lalu akan ditampilkan bilangan terbesar dari semua bilangan yang diiput. untuk mencari bilangan terbesar menggunakan fungsi max. maka akan muncul tampilan sebagai berikut
 
 ![Screenshot (117)](https://user-images.githubusercontent.com/56973033/68483341-f4cd2f80-026d-11ea-86c7-e63ff2c606ff.png)
+
+dan berikut flowchartnya
+
+![Screenshot (119)](https://user-images.githubusercontent.com/56973033/68694169-3716a980-05ab-11ea-8c9e-699043fea60a.png)
+
 
 penjelasan program1
 1. modal awal pengusaha sebesar 100000000.
